@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node",
+      "@wdio/cucumber-framework",
+      "@wdio/globals/types"
+    ]
+  }
+}
